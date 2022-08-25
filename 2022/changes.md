@@ -1,0 +1,1 @@
+- Note to self: Add more content and possible dynamic project and statistic updating from the AstriaCloud API
